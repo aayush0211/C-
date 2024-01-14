@@ -1,0 +1,15 @@
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\bin\Debug\net7.0\ThreadsDemo.exe
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\bin\Debug\net7.0\ThreadsDemo.deps.json
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\bin\Debug\net7.0\ThreadsDemo.runtimeconfig.json
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\bin\Debug\net7.0\ThreadsDemo.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\bin\Debug\net7.0\ThreadsDemo.pdb
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\obj\Debug\net7.0\ThreadsDemo.csproj.AssemblyReference.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\obj\Debug\net7.0\ThreadsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\obj\Debug\net7.0\ThreadsDemo.AssemblyInfoInputs.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\obj\Debug\net7.0\ThreadsDemo.AssemblyInfo.cs
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\obj\Debug\net7.0\ThreadsDemo.csproj.CoreCompileInputs.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\obj\Debug\net7.0\ThreadsDemo.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\obj\Debug\net7.0\refint\ThreadsDemo.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\obj\Debug\net7.0\ThreadsDemo.pdb
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\obj\Debug\net7.0\ThreadsDemo.genruntimeconfig.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\ThreadsDemo\obj\Debug\net7.0\ref\ThreadsDemo.dll

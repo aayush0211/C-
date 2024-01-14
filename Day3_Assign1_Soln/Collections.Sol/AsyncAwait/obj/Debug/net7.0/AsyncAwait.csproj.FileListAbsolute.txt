@@ -1,0 +1,15 @@
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\bin\Debug\net7.0\AsyncAwait.exe
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\bin\Debug\net7.0\AsyncAwait.deps.json
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\bin\Debug\net7.0\AsyncAwait.runtimeconfig.json
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\bin\Debug\net7.0\AsyncAwait.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\bin\Debug\net7.0\AsyncAwait.pdb
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\obj\Debug\net7.0\AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\obj\Debug\net7.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\obj\Debug\net7.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\obj\Debug\net7.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\obj\Debug\net7.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\obj\Debug\net7.0\AsyncAwait.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\obj\Debug\net7.0\refint\AsyncAwait.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\obj\Debug\net7.0\AsyncAwait.pdb
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\obj\Debug\net7.0\AsyncAwait.genruntimeconfig.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Collections.Sol\AsyncAwait\obj\Debug\net7.0\ref\AsyncAwait.dll

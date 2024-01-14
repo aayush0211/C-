@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "day9_pratice_Assign/1.0.0": {
+        "dependencies": {
+          "Day2_Practice": "1.0.0"
+        },
+        "runtime": {
+          "day9_pratice_Assign.dll": {}
+        }
+      },
+      "Day2_Practice/1.0.0": {
+        "dependencies": {
+          "mat": "1.0.0"
+        },
+        "runtime": {
+          "Day2_Practice.dll": {}
+        }
+      },
+      "mat/1.0.0": {
+        "runtime": {
+          "mat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "day9_pratice_Assign/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day2_Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

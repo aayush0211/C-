@@ -1,0 +1,36 @@
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.csproj.AssemblyReference.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.AssemblyInfoInputs.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.AssemblyInfo.cs
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.csproj.CoreCompileInputs.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\Day2_ASSGN1.exe
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\Day2_ASSGN1.deps.json
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\Day2_ASSGN1.runtimeconfig.json
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\Day2_ASSGN1.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\Day2_ASSGN1.pdb
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\refint\Day2_ASSGN1.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.pdb
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.genruntimeconfig.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\ref\Day2_ASSGN1.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\MathClass1.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\MathClass1.pdb
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.csproj.CopyComplete
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\Day2_ASSGN1.exe
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\Day2_ASSGN1.deps.json
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\Day2_ASSGN1.runtimeconfig.json
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\Day2_ASSGN1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\Day2_ASSGN1.pdb
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\MathClass1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\bin\Debug\net7.0\MathClass1.pdb
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.AssemblyInfo.cs
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.csproj.CopyComplete
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\refint\Day2_ASSGN1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.pdb
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\Day2_ASSGN1.genruntimeconfig.cache
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\Day2_ASSGN1\obj\Debug\net7.0\ref\Day2_ASSGN1.dll

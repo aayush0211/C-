@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "MathClass1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MathClass1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathClass1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathClass1/1.0.0": {
+      "type": "project",
+      "path": "../../../../../../acts/Desktop/Aayush-Gautam .NET/LabWork/Day2_ASSGN1_SOL/MathClass1/MathClass1.csproj",
+      "msbuildProject": "../../../../../../acts/Desktop/Aayush-Gautam .NET/LabWork/Day2_ASSGN1_SOL/MathClass1/MathClass1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "MathClass1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\CDAC_Asp.Net\\LabWork\\Day3_Assign1_Soln\\Day3_Assign1\\Day3_Assign1.csproj",
+      "projectName": "Day3_Assign1",
+      "projectPath": "C:\\Users\\HP\\Desktop\\CDAC_Asp.Net\\LabWork\\Day3_Assign1_Soln\\Day3_Assign1\\Day3_Assign1.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\CDAC_Asp.Net\\LabWork\\Day3_Assign1_Soln\\Day3_Assign1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\acts\\Desktop\\Aayush-Gautam .NET\\LabWork\\Day2_ASSGN1_SOL\\MathClass1\\MathClass1.csproj": {
+              "projectPath": "C:\\Users\\acts\\Desktop\\Aayush-Gautam .NET\\LabWork\\Day2_ASSGN1_SOL\\MathClass1\\MathClass1.csproj"
+            },
+            "C:\\Users\\HP\\Desktop\\CDAC_Asp.Net\\LabWork\\Day2_ASSGN1_SOL\\MathClass1\\MathClass1.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\CDAC_Asp.Net\\LabWork\\Day2_ASSGN1_SOL\\MathClass1\\MathClass1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

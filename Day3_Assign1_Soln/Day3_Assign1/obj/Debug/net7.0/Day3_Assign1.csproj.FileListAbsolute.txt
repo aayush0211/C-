@@ -1,0 +1,36 @@
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.csproj.AssemblyReference.cache
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.AssemblyInfoInputs.cache
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.AssemblyInfo.cs
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.csproj.CoreCompileInputs.cache
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\Day3_Assign1.exe
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\Day3_Assign1.deps.json
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\Day3_Assign1.runtimeconfig.json
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\Day3_Assign1.dll
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\Day3_Assign1.pdb
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\MathClass1.dll
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\MathClass1.pdb
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.csproj.CopyComplete
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.dll
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\refint\Day3_Assign1.dll
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.pdb
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.genruntimeconfig.cache
+F:\RAJAT\.NET Assignments\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\ref\Day3_Assign1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.AssemblyInfo.cs
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\refint\Day3_Assign1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.pdb
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\Day3_Assign1.exe
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\Day3_Assign1.deps.json
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\Day3_Assign1.runtimeconfig.json
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\Day3_Assign1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\Day3_Assign1.pdb
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\MathClass1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\bin\Debug\net7.0\MathClass1.pdb
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.csproj.CopyComplete
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\Day3_Assign1.genruntimeconfig.cache
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\Day3_Assign1\obj\Debug\net7.0\ref\Day3_Assign1.dll

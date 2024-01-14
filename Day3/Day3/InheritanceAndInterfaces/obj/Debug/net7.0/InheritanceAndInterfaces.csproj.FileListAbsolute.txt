@@ -1,0 +1,15 @@
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\bin\Debug\net7.0\InheritanceAndInterfaces.exe
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\bin\Debug\net7.0\InheritanceAndInterfaces.deps.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\bin\Debug\net7.0\InheritanceAndInterfaces.runtimeconfig.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\bin\Debug\net7.0\InheritanceAndInterfaces.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\bin\Debug\net7.0\InheritanceAndInterfaces.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\obj\Debug\net7.0\InheritanceAndInterfaces.csproj.AssemblyReference.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\obj\Debug\net7.0\InheritanceAndInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\obj\Debug\net7.0\InheritanceAndInterfaces.AssemblyInfoInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\obj\Debug\net7.0\InheritanceAndInterfaces.AssemblyInfo.cs
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\obj\Debug\net7.0\InheritanceAndInterfaces.csproj.CoreCompileInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\obj\Debug\net7.0\InheritanceAndInterfaces.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\obj\Debug\net7.0\refint\InheritanceAndInterfaces.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\obj\Debug\net7.0\InheritanceAndInterfaces.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\obj\Debug\net7.0\InheritanceAndInterfaces.genruntimeconfig.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\InheritanceAndInterfaces\obj\Debug\net7.0\ref\InheritanceAndInterfaces.dll

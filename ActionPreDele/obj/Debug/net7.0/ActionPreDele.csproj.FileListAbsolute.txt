@@ -1,0 +1,15 @@
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\bin\Debug\net7.0\ActionPreDele.exe
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\bin\Debug\net7.0\ActionPreDele.deps.json
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\bin\Debug\net7.0\ActionPreDele.runtimeconfig.json
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\bin\Debug\net7.0\ActionPreDele.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\bin\Debug\net7.0\ActionPreDele.pdb
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\obj\Debug\net7.0\ActionPreDele.csproj.AssemblyReference.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\obj\Debug\net7.0\ActionPreDele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\obj\Debug\net7.0\ActionPreDele.AssemblyInfoInputs.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\obj\Debug\net7.0\ActionPreDele.AssemblyInfo.cs
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\obj\Debug\net7.0\ActionPreDele.csproj.CoreCompileInputs.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\obj\Debug\net7.0\ActionPreDele.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\obj\Debug\net7.0\refint\ActionPreDele.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\obj\Debug\net7.0\ActionPreDele.pdb
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\obj\Debug\net7.0\ActionPreDele.genruntimeconfig.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\ActionPreDele\obj\Debug\net7.0\ref\ActionPreDele.dll

@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\UtilityOfEmployeeClass\obj\Debug\net7.0\UtilityOfEmployeeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\UtilityOfEmployeeClass\obj\Debug\net7.0\UtilityOfEmployeeClass.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\UtilityOfEmployeeClass\obj\Debug\net7.0\UtilityOfEmployeeClass.AssemblyInfo.cs
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day3_Assign1_Soln\UtilityOfEmployeeClass\obj\Debug\net7.0\UtilityOfEmployeeClass.csproj.CoreCompileInputs.cache

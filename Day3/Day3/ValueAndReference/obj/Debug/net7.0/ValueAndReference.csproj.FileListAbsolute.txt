@@ -1,0 +1,15 @@
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\bin\Debug\net7.0\ValueAndReference.exe
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\bin\Debug\net7.0\ValueAndReference.deps.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\bin\Debug\net7.0\ValueAndReference.runtimeconfig.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\bin\Debug\net7.0\ValueAndReference.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\bin\Debug\net7.0\ValueAndReference.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\obj\Debug\net7.0\ValueAndReference.csproj.AssemblyReference.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\obj\Debug\net7.0\ValueAndReference.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\obj\Debug\net7.0\ValueAndReference.AssemblyInfoInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\obj\Debug\net7.0\ValueAndReference.AssemblyInfo.cs
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\obj\Debug\net7.0\ValueAndReference.csproj.CoreCompileInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\obj\Debug\net7.0\ValueAndReference.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\obj\Debug\net7.0\refint\ValueAndReference.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\obj\Debug\net7.0\ValueAndReference.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\obj\Debug\net7.0\ValueAndReference.genruntimeconfig.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day3\ValueAndReference\obj\Debug\net7.0\ref\ValueAndReference.dll

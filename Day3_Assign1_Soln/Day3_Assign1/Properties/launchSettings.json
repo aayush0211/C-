@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Day3_Assign1": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

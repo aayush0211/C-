@@ -1,0 +1,23 @@
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\bin\Debug\net7.0\MathClass1.deps.json
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\bin\Debug\net7.0\MathClass1.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\bin\Debug\net7.0\MathClass1.pdb
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.csproj.AssemblyReference.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.AssemblyInfoInputs.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.AssemblyInfo.cs
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.csproj.CoreCompileInputs.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\refint\MathClass1.dll
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.pdb
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\ref\MathClass1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\MathClass1\bin\Debug\net7.0\MathClass1.deps.json
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\MathClass1\bin\Debug\net7.0\MathClass1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\MathClass1\bin\Debug\net7.0\MathClass1.pdb
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.AssemblyInfo.cs
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\refint\MathClass1.dll
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\MathClass1.pdb
+C:\Users\HP\Desktop\CDAC_Asp.Net\LabWork\Day2_ASSGN1_SOL\MathClass1\obj\Debug\net7.0\ref\MathClass1.dll

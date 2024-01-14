@@ -1,0 +1,5 @@
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass\obj\Debug\net7.0\MathClass.csproj.AssemblyReference.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass\obj\Debug\net7.0\MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass\obj\Debug\net7.0\MathClass.AssemblyInfoInputs.cache
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass\obj\Debug\net7.0\MathClass.AssemblyInfo.cs
+C:\Users\acts\Desktop\Aayush-Gautam .NET\LabWork\Day2_ASSGN1_SOL\MathClass\obj\Debug\net7.0\MathClass.csproj.CoreCompileInputs.cache

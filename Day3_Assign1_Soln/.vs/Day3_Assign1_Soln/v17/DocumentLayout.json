@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\CDAC_Asp.Net\\LabWork\\Day3_Assign1_Soln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F03AFC15-4D00-47A5-B84F-CA0E87FC51FF}|Day3_Assign1\\Day3_Assign1.csproj|c:\\users\\hp\\desktop\\cdac_asp.net\\labwork\\day3_assign1_soln\\day3_assign1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03AFC15-4D00-47A5-B84F-CA0E87FC51FF}|Day3_Assign1\\Day3_Assign1.csproj|solutionrelative:day3_assign1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D537F-8C4A-42C4-82B1-B8C832AD0DE1}|..\\Day2_ASSGN1_SOL\\MathClass1\\MathClass1.csproj|c:\\users\\hp\\desktop\\cdac_asp.net\\labwork\\day2_assgn1_sol\\mathclass1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\CDAC_Asp.Net\\LabWork\\Day2_ASSGN1_SOL\\MathClass1\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Day2_ASSGN1_SOL\\MathClass1\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\CDAC_Asp.Net\\LabWork\\Day2_ASSGN1_SOL\\MathClass1\\Class1.cs",
+              "RelativeToolTip": "..\\Day2_ASSGN1_SOL\\MathClass1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T17:16:12.952Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\CDAC_Asp.Net\\LabWork\\Day3_Assign1_Soln\\Day3_Assign1\\Program.cs",
+              "RelativeDocumentMoniker": "Day3_Assign1\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\CDAC_Asp.Net\\LabWork\\Day3_Assign1_Soln\\Day3_Assign1\\Program.cs",
+              "RelativeToolTip": "Day3_Assign1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T17:13:00.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
